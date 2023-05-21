@@ -137,7 +137,7 @@ aside span {
 }
 
 @media (max-width: 768px) {
-  :motion-rotation: {
+  :root {
     font-size: 14px;
   }
 
